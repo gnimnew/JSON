@@ -21,6 +21,18 @@
       "id": "2",
       "name": "詹铭岚",
       "pinyin": "zhanminlan"
+      "homeworks": [
+        {
+          "cirriculum": "英语",
+          "date": "2021-08-08",
+          "speed": "fast"
+        },
+        {
+          "cirriculum": "英语",
+          "date": "2021-08-08",
+          "speed": "fast"
+        }
+      ]
     }
   ]
 }
