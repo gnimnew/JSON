@@ -1,5 +1,6 @@
-[
+{
     "students":
+[
     {
       "id": "1",
       "name": "田家启",
@@ -11,3 +12,4 @@
       "pinyin": "zhanminlan"
     }
 ]
+}
