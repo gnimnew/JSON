@@ -3,7 +3,19 @@
     {
       "id": "1",
       "name": "田家启",
-      "pinyin": "tianjiaqi"
+      "pinyin": "tianjiaqi",
+      "homework": [
+        {
+          "cirriculum": "英语",
+          "date": "2021-08-08",
+          "speed": "fast"
+        },
+        {
+          "cirriculum": "英语",
+          "date": "2021-08-08",
+          "speed": "fast"
+        }
+      ]
     },
     {
       "id": "2",
